@@ -36,7 +36,7 @@
   }
 
   getVat = Math.round(getVat() * 100) / 100;
-  console.log("El importe correspondiente al IVA de todas las unidades (IF) es: " + getVat + "€");
+  console.log("El importe correspondiente al IVA de todas las unidades es: " + getVat + "€");
   console.log("-----------------------------------------------------------------------------------------------");
 
   //APLICANDO SWITCH:
