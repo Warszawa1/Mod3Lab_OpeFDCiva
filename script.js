@@ -20,7 +20,7 @@
     unitVat = Math.round(unitVat * 100) / 100;
   
   console.log("El IVA por unidad corresponde a: " + unitVat + "€");
-  console.log("------------------------------------------------------------------------------------------------");
+  console.log("-----------------------------------------------------------------------------------------------");
 
   //APLICANDO IF:
   function getVat (){
